@@ -1,0 +1,35 @@
+code-block{
+    display: block;
+    white-space: pre;
+    color:rgb(219, 214, 207);
+    background-color:#1d1d1d;
+    font-family: monospace;
+
+    border: 1px solid rgb(0, 212, 212);
+
+    margin: 20px;
+}
+c-key{
+    color: rgb(255, 145, 0);
+}
+c-com{
+    color:rgb(109, 109, 109);
+}
+c-type{
+    color: chartreuse;
+}
+c-var{
+    color:aquamarine;
+}
+c-num{
+    color:crimson;
+}
+c-func{
+    color:yellow;
+}
+c-syn{
+    color:indianred;
+}
+c-string{
+    color: rgb(165, 233, 165);
+}
